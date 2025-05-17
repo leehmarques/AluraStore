@@ -15,7 +15,7 @@ Análise do total de faturamento de cada loja, considerando todos os pedidos rea
 Proporção de vendas por tipo de produto em cada loja:
 
 ### Loja 1
-<img src="Imagens/loja1.png" width="350"/>
+<img src="Imagens/loja1.png" width="300"/>
 
 ### Loja 2
 <img src="Imagens/loja2.png" width="350"/>
@@ -72,19 +72,28 @@ Você pode executar este projeto no Google Colab ou Jupyter Notebook. Os dados e
 ## 📁 Estrutura
 
 📦 AluraStoreBR
+
 ┣ 📊 imagens/
+
 ┃ ┣ faturamento_lojas.png
+
 ┃ ┣ pizza_loja1.png
+
 ┃ ┣ pizza_loja2.png
+
 ┃ ┣ pizza_loja3.png
+
 ┃ ┣ pizza_loja4.png
+
 ┃ ┣ media_avaliacao.png
+
 ┃ ┗ frete_medio.png
+
 ┣ 📜 AluraStoreBr.ipynb
+
 ┗ 📄 README.md
 
-
----
+--- 
 
 Feito com 💙 para o desafio de Data Science da Alura.
 
