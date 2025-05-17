@@ -15,16 +15,16 @@ Análise do total de faturamento de cada loja, considerando todos os pedidos rea
 Proporção de vendas por tipo de produto em cada loja:
 
 ### Loja 1
-<img src="Imagens/loja1.png" width="300"/>
+<img src="Imagens/loja1.png" width="350"/>
 
 ### Loja 2
-<img src="Imagens/loja2.png" width="300"/>
+<img src="Imagens/loja2.png" width="350"/>
 
 ### Loja 3
-<img src="Imagens/loja3.png" width="300"/>
+<img src="Imagens/loja3.png" width="350"/>
 
 ### Loja 4
-<img src="Imagens/loja4.png" width="300"/>
+<img src="Imagens/loja4.png" width="350"/>
 
 ---
 
