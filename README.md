@@ -6,7 +6,7 @@ Este projeto realiza uma análise comparativa entre quatro lojas virtuais da Alu
 
 Análise do total de faturamento de cada loja, considerando todos os pedidos realizados.
 
-<img src="" alt="Faturamento por Loja" width="500"/>
+<img src="Imagens/faturamento.png" alt="Faturamento por Loja" width="500"/>
 
 ---
 
