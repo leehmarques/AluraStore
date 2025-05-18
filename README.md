@@ -33,8 +33,9 @@ Proporção de vendas por tipo de produto em cada loja:
 </p>
 
 ### Loja 4
+<p align = "center">
 <img src="Imagens/loja4.png" width="350"/>
-
+</p>
 ---
 
 ## 🌟 3. Média de Avaliação por Loja
