@@ -6,7 +6,9 @@ Este projeto realiza uma análise comparativa entre quatro lojas virtuais da Alu
 
 Análise do total de faturamento de cada loja, considerando todos os pedidos realizados.
 
+<p align = "center">
 <img src="Imagens/faturamento.png" alt="Faturamento por Loja" width="350"/>
+</p>
 
 ---
 
@@ -15,13 +17,19 @@ Análise do total de faturamento de cada loja, considerando todos os pedidos rea
 Proporção de vendas por tipo de produto em cada loja:
 
 ### Loja 1
+<p align = "center">
 <img src="Imagens/loja1.png" width="350"/>
+</p>
 
 ### Loja 2
+<p align = "center">
 <img src="Imagens/loja2.png" width="350"/>
+</p>
 
 ### Loja 3
+<p align = "center">
 <img src="Imagens/loja3.png" width="350"/>
+</p>
 
 ### Loja 4
 <img src="Imagens/loja4.png" width="350"/>
@@ -31,17 +39,17 @@ Proporção de vendas por tipo de produto em cada loja:
 ## 🌟 3. Média de Avaliação por Loja
 
 Avaliando a satisfação dos clientes com as compras realizadas:
-
+<p align = "center">
 <img src="Imagens/avaliacao.png" width="500"/>
-
+</p>
 ---
 
 ## 🚚 4. Frete Médio por Loja
 
 Comparação do valor médio de frete cobrado por loja:
-
+<p align = "center">
 <img src="Imagens/frete.png" width="500"/>
-
+</p>
 ---
 
 ## 📝 Relatório Final
